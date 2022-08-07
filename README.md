@@ -1,5 +1,7 @@
 # Predicting aerodynamic characteristics of airfoils using ANN
 
+## Dataset description
+
 Airfoil coordinates (X, Y ), angle of attack (α), Reynolds number (Re), lift coefficient (C<sub>L</sub>) and drag coefficient (C<sub>D</sub>) are the features of the dataset. 
 
 1. Airfoils: NACA 0012, NACA 0015, NACA 0018 NACA 0021 and NACA 0025.

@@ -5,7 +5,7 @@
 Airfoil coordinates (X, Y ), angle of attack (α), Reynolds number (Re), lift coefficient (C<sub>L</sub>) and drag coefficient (C<sub>D</sub>) are the features of the dataset. 
 
 1. Airfoils: NACA 0012, NACA 0015, NACA 0018 NACA 0021 and NACA 0025.
-2. Airfoil Tools [[1]](#1) was used to generate airfoil coordinates (X,Y).
+2. Airfoil Tools [[1]](#1) was used to generate a total 201 airfoil coordinates (X,Y) for an individual airfoil.
 3. Wind turbine experimental data [[2]](#2) was used to get rest of the features (α, Re, C<sub>L</sub> and C<sub>D</sub>).
 4. Angle of attack (α) is in the range of (0<sup>◦</sup> ≤ α ≤ 180<sup>◦</sup>).
 5. Reynolds number (Re) is in the range of (10<sup>4</sup> ≤ Re ≤ 10<sup>7</sup>).

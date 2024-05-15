@@ -15,7 +15,7 @@ Airfoil coordinates (X, Y ), angle of attack (α), Reynolds number (Re), lift co
 
 ## References
 <a id="1">[1]</a>
-Hasan, Md Moynul, Mohammad Fahim Faisal, NM Golam Zakaria, and Md Mashiur Rahaman. "Predicting aerodynamic characteristics of airfoils using artificial neural network." (2024).
+Hasan, Md Moynul, Mohammad Fahim Faisal, NM Golam Zakaria, and Md Mashiur Rahaman. "Predicting aerodynamic characteristics of airfoils using artificial neural network." DOI: https://doi.org/10.21203/rs.3.rs-4156906/v1 (2024).
 
 <a id="2">[2]</a>  
 Tools, Airfoil. 2022. Airfoil tools URL: http://www.airfoiltools.com/.

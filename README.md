@@ -15,10 +15,10 @@ Airfoil coordinates (X, Y ), angle of attack (α), Reynolds number (Re), lift co
 
 ## References
 <a id="1">[1]</a>
-Hasan, Md Moynul, Mohammad Fahim Faisal, NM Golam Zakaria, and Md Mashiur Rahaman. "Predicting aerodynamic characteristics of airfoils using artificial neural network." DOI: https://doi.org/10.21203/rs.3.rs-4156906/v1 (2024).
+Hasan, Md Moynul, Mohammad Fahim Faisal, NM Golam Zakaria, and Md Mashiur Rahaman. "Predicting aerodynamic characteristics of airfoils using artificial neural network." (2024). DOI: https://doi.org/10.21203/rs.3.rs-4156906/v1.
 
 <a id="2">[2]</a>  
 Tools, Airfoil. 2022. Airfoil tools URL: http://www.airfoiltools.com/.
 
 <a id="3">[3]</a> 
-Sheldahl, Robert E., and Paul C. Klimas. Aerodynamic characteristics of seven symmetrical airfoil sections through 180-degree angle of attack for use in aerodynamic analysis of vertical axis wind turbines. No. SAND-80-2114. Sandia National Labs., Albuquerque, NM (USA), 1981.
+Sheldahl, Robert E., and Paul C. Klimas. Aerodynamic characteristics of seven symmetrical airfoil sections through 180-degree angle of attack for use in aerodynamic analysis of vertical axis wind turbines. No. SAND-80-2114. Sandia National Labs., Albuquerque, NM (USA), 1981. DOI: https://doi.org/10.2172/6548367.
